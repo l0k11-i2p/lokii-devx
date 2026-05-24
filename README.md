@@ -25,6 +25,8 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/1005536880659529808)](https://discord.com/users/1005536880659529808)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2020%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-80.51%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
@@ -73,7 +75,7 @@ HTML                     1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 23/05/2026 20:43:11 UTC
+ Last Updated on 24/05/2026 02:38:35 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats & Trophies
